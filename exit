@@ -1,0 +1,11 @@
+[33mcommit ebeee12a07a65758c8844700d3cb149ab6354a3c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: gitabiy <abiyberhe@gmail.com>
+Date:   Sat Mar 7 01:47:30 2026 +0300
+
+    Add requirements.txt
+
+[33mcommit 8dea43800e3a97b57bad023b2453a422df831d99[m
+Author: gitabiy <abiyberhe@gmail.com>
+Date:   Fri Mar 6 18:45:27 2026 +0300
+
+    Day 2: initial project setup
